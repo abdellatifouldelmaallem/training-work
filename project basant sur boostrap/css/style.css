@@ -1,0 +1,63 @@
+
+.navbar-nav{
+    display: flex;
+    flex-direction: row;
+    float: left;
+}
+a {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 500;
+    margin: 10px;
+    
+}
+a:hover {
+    color: #3ff1f1;
+    text-decoration: none;
+}
+.head{
+    background-image: url(../images/agency.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    background-color: #616161;
+    background-blend-mode: multiply;  
+}
+
+
+h3{
+    
+        font-size: 3.75rem;
+        color: #fff;
+        font-weight: 700;
+        margin: 32px 0px 32px 0px;
+        position: absolute;
+        top: 36%;
+        left: 10%; 
+}
+
+
+/*position of bottuns*/
+.btn:not(:disabled):not(.disabled) {
+
+    position: absolute;
+    top: 77%;
+    left: 45%;
+}
+
+
+/*position of nav*/
+.navbar {
+ 
+        position: sticky;
+        top: 0;
+        padding: 5px;
+        background-color: #070808;
+        border: 2px solid #000000;
+    
+}
+
+
+
+
