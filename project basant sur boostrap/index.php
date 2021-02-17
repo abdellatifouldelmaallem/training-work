@@ -8,7 +8,6 @@
     <?php include './components/styles.php'; ?>
 </head>
 <body>
-
     <?php include './components/header.php'; ?>
     <?php include './components/services.php'; ?>
     <?php include './components/about.php'; ?>
