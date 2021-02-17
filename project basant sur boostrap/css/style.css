@@ -1,0 +1,33 @@
+footer{
+    background-color: rgb(73, 82, 82);
+}
+.never{
+    font-size:32px;
+}
+.al-stats {
+    min-height:50vh;
+    background:#f5eeeb;
+}
+.al-stat-meta h3 {
+    color:#4477b4;
+    font-size:28px;
+}
+.al-stat-meta span {
+    color:#3c4754;
+    font-size:18px;
+}
+.glyphicon{
+    font-size: 40px;
+}
+#stop{
+    margin-left: 43rem;
+}
+.lorem{
+    font-size: 12px;
+}
+.footer-copyright{
+    background-color: rgb(73, 82, 82);
+}
+.col{
+    background-color: rgb(73, 82, 82);
+}
